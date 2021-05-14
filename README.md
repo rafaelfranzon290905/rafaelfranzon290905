@@ -1,5 +1,15 @@
-### Hi there 👋
+### Rafael is a high school student at Senacrs learning to code
 
+
+here are some things about me:
+
+
+- 🔭 I’m currently studying at Senacrs
+- 🌱 I’m currently learning code
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about anything, i will answer if interested
+- 📫 How to reach me: email-emailfalsokkk@gmail.com
+- ⚡ Fun fact: I beat hotline miami 2 on hard mode
 <!--
 **rafaelfranzon290905/rafaelfranzon290905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
