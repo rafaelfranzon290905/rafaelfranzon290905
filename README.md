@@ -2,12 +2,6 @@
 
 <br></br>
 
-<p align="center">
-<img src="header.svg" />
-</p>
-
-&nbsp;
-
 
 
 <div align="center">
