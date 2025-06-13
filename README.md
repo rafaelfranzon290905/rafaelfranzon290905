@@ -4,7 +4,7 @@
 
 
 
-<div>
+<div display='flex'>
  
  <br>
  
