@@ -1,6 +1,8 @@
 
-## Olá👋! Eu me chamo Rafael da Silva Franzon, bem vindo ao meu perfil!
-- Sou um desenvolvedor junior em busca de oportunidades para aprender, crescer e contribuir em projetos reais.
+# Olá👋! Eu me chamo Rafael da Silva Franzon, bem vindo ao meu perfil!
+Sou um desenvolvedor junior em busca de oportunidades para aprender, crescer e contribuir em projetos reais.
+
+## Contato
 - Email: rafaelfranzon2909@gmail.com
 - Linkedin: www.linkedin.com/in/rafael-da-silva-franzon-12165a239
 
